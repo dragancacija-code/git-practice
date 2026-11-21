@@ -1,4 +1,4 @@
-Moja prva beleska, izmenjena
+Prva linija - verzija sa main
 Druga linija
 Treca linija
 Cetvrta linija
