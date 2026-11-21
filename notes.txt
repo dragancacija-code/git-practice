@@ -1,7 +1,5 @@
-HEAD
 Prva linija - verzija sa main
 Prva linija - verzija sa clash
-clash
 Druga linija
 Treca linija
 Cetvrta linija
