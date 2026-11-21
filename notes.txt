@@ -6,3 +6,4 @@ Cetvrta linija
 Eksperiment sa grane idea
 Linija sa main
 Moja nova linija
+Ispravljeno 21.11.2026
