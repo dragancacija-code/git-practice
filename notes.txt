@@ -1,6 +1,6 @@
 Prva linija - verzija sa main
 Prva linija - verzija sa clash
-Druga linija
+Druga linija (ispravljena)
 Treca linija
 Cetvrta linija
 Eksperiment sa grane idea
