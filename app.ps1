@@ -1,4 +1,4 @@
-$SHOW_NEW_PAGE = $false
+$SHOW_NEW_PAGE = $true
 
 Write-Output "Pocetna stranica"
 
