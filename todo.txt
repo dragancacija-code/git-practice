@@ -1,2 +1,3 @@
 Uraditi lekciju 07
 Kolega: dodati README
+Main: nauciti rebase
